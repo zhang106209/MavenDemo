@@ -20,7 +20,9 @@ allprojects {
     repositories {
         google()
         jcenter()
-        
+//        maven {
+//            url "https://raw.githubusercontent.com/zhang106209/MavenDemo/tree/master/repository/com/zw/baselib/baselib/master"
+//        }
     }
 }
 
