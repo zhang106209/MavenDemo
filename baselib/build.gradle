@@ -43,6 +43,6 @@ uploadArchives {
         // 配置本地仓库路径，项目根目录下的repository目录中
 //        repository(url: "file:///D:/Android/Maven")
 //        repository(url: uri('../repository'))
-        repository(url: "https://raw.githubusercontent.com/zhang106209/MavenDemo/tree/master/repository/com/zw/baselib/baselib/master")
+//        repository(url: "https://raw.githubusercontent.com/zhang106209/MavenDemo/tree/master/repository/com/zw/baselib/baselib/master")
     }
 }
